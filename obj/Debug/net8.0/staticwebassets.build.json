@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "HBb5typYXQqPDCYUb1ckeCf9IzCkDGByd+EVEO2peDw=",
+  "Source": "LH PETS",
+  "BasePath": "_content/LH PETS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LH PETS\\wwwroot",
+      "Source": "LH PETS",
+      "ContentRoot": "C:\\Users\\savio\\Desktop\\FULLSTACK\\12-Codificação para Back-End\\10b - anexos\\LH PETS\\wwwroot\\",
+      "BasePath": "_content/LH PETS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\savio\\Desktop\\FULLSTACK\\12-Codificação para Back-End\\10b - anexos\\LH PETS\\wwwroot\\index.html",
+      "SourceId": "LH PETS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\savio\\Desktop\\FULLSTACK\\12-Codificação para Back-End\\10b - anexos\\LH PETS\\wwwroot\\",
+      "BasePath": "_content/LH PETS",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
